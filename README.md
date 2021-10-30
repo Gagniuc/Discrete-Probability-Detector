@@ -1,5 +1,5 @@
 # Discrete Probability Detector
-Discrete Probability Detector (Markov Chains)
+Discrete Probability Detector (Markov Chains) is an algorithm that extracts transition probability matrices from simple text. In this repository there are three zip archives that contain the implementations in Java Script (JS), Visual Basic for Applications (VBA), and Visual Basic 6.0 (VB6).
 
 Live demo: https://gagniuc.github.io/Discrete-Probability-Detector/
 
